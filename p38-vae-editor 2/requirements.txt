@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+tensorflow-cpu==2.21.0
+torch
+transformers
+numpy
+pillow
+requests
+matplotlib
+scikit-learn
+pandas
+tabulate
